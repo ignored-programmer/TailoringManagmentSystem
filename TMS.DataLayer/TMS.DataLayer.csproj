@@ -95,6 +95,7 @@
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+    <None Include="TailoringManagementSystemDB.bak" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TMS.ViewModels\TMS.ViewModels.csproj">

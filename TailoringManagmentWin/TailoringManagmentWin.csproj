@@ -219,6 +219,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="TailoringManagementSystemDB.bak" />
     <None Include="TailoringManagmentWin_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
